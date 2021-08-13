@@ -17,7 +17,7 @@ In order to view or render the comparison result in the browser, we used GroupDo
 ## Screenshots
 * Source and Target Files  
 ![](Screenshots/sourcefiles.PNG) 
-* Displayed using ASP.NET Core application
+* Resultant File
 ![](Screenshots/output.PNG)
 
 # Interested in GroupDocs free consulting project?

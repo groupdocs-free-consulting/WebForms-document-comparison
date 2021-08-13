@@ -1,0 +1,78 @@
+D:\Document comparison application\Document comparison application\obj\Debug\Document comparison application.csproj.CoreCompileInputs.cache
+D:\Document comparison application\Document comparison application\bin\Document comparison application.dll.config
+D:\Document comparison application\Document comparison application\bin\Document comparison application.dll
+D:\Document comparison application\Document comparison application\bin\Document comparison application.pdb
+D:\Document comparison application\Document comparison application\bin\roslyn\csc.exe
+D:\Document comparison application\Document comparison application\bin\roslyn\csc.exe.config
+D:\Document comparison application\Document comparison application\bin\roslyn\csc.rsp
+D:\Document comparison application\Document comparison application\bin\roslyn\csi.exe
+D:\Document comparison application\Document comparison application\bin\roslyn\csi.exe.config
+D:\Document comparison application\Document comparison application\bin\roslyn\csi.rsp
+D:\Document comparison application\Document comparison application\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Document comparison application\Document comparison application\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Document comparison application\Document comparison application\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\Document comparison application\Document comparison application\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Document comparison application\Document comparison application\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\Document comparison application\Document comparison application\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Document comparison application\Document comparison application\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Document comparison application\Document comparison application\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\Document comparison application\Document comparison application\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\Document comparison application\Document comparison application\bin\roslyn\Microsoft.Managed.Core.targets
+D:\Document comparison application\Document comparison application\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Document comparison application\Document comparison application\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\Document comparison application\Document comparison application\bin\roslyn\System.AppContext.dll
+D:\Document comparison application\Document comparison application\bin\roslyn\System.Collections.Immutable.dll
+D:\Document comparison application\Document comparison application\bin\roslyn\System.Console.dll
+D:\Document comparison application\Document comparison application\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+D:\Document comparison application\Document comparison application\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\Document comparison application\Document comparison application\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\Document comparison application\Document comparison application\bin\roslyn\System.Globalization.Calendars.dll
+D:\Document comparison application\Document comparison application\bin\roslyn\System.IO.Compression.dll
+D:\Document comparison application\Document comparison application\bin\roslyn\System.IO.Compression.ZipFile.dll
+D:\Document comparison application\Document comparison application\bin\roslyn\System.IO.FileSystem.dll
+D:\Document comparison application\Document comparison application\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\Document comparison application\Document comparison application\bin\roslyn\System.Net.Http.dll
+D:\Document comparison application\Document comparison application\bin\roslyn\System.Net.Sockets.dll
+D:\Document comparison application\Document comparison application\bin\roslyn\System.Reflection.Metadata.dll
+D:\Document comparison application\Document comparison application\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\Document comparison application\Document comparison application\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\Document comparison application\Document comparison application\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\Document comparison application\Document comparison application\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\Document comparison application\Document comparison application\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\Document comparison application\Document comparison application\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\Document comparison application\Document comparison application\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\Document comparison application\Document comparison application\bin\roslyn\System.ValueTuple.dll
+D:\Document comparison application\Document comparison application\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\Document comparison application\Document comparison application\bin\roslyn\System.Xml.XmlDocument.dll
+D:\Document comparison application\Document comparison application\bin\roslyn\System.Xml.XPath.dll
+D:\Document comparison application\Document comparison application\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\Document comparison application\Document comparison application\bin\roslyn\vbc.exe
+D:\Document comparison application\Document comparison application\bin\roslyn\vbc.exe.config
+D:\Document comparison application\Document comparison application\bin\roslyn\vbc.rsp
+D:\Document comparison application\Document comparison application\bin\roslyn\VBCSCompiler.exe
+D:\Document comparison application\Document comparison application\bin\roslyn\VBCSCompiler.exe.config
+D:\Document comparison application\Document comparison application\bin\Antlr3.Runtime.dll
+D:\Document comparison application\Document comparison application\bin\AspNet.ScriptManager.bootstrap.dll
+D:\Document comparison application\Document comparison application\bin\AspNet.ScriptManager.jQuery.dll
+D:\Document comparison application\Document comparison application\bin\GroupDocs.Comparison.dll
+D:\Document comparison application\Document comparison application\bin\Microsoft.AspNet.FriendlyUrls.dll
+D:\Document comparison application\Document comparison application\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+D:\Document comparison application\Document comparison application\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Document comparison application\Document comparison application\bin\Microsoft.ScriptManager.MSAjax.dll
+D:\Document comparison application\Document comparison application\bin\Microsoft.ScriptManager.WebForms.dll
+D:\Document comparison application\Document comparison application\bin\Microsoft.Web.Infrastructure.dll
+D:\Document comparison application\Document comparison application\bin\Newtonsoft.Json.dll
+D:\Document comparison application\Document comparison application\bin\System.Web.Optimization.dll
+D:\Document comparison application\Document comparison application\bin\WebGrease.dll
+D:\Document comparison application\Document comparison application\bin\GroupDocs.Comparison.xml
+D:\Document comparison application\Document comparison application\bin\System.Web.Optimization.xml
+D:\Document comparison application\Document comparison application\bin\Newtonsoft.Json.xml
+D:\Document comparison application\Document comparison application\bin\Antlr3.Runtime.pdb
+D:\Document comparison application\Document comparison application\bin\Microsoft.AspNet.FriendlyUrls.xml
+D:\Document comparison application\Document comparison application\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Document comparison application\Document comparison application\obj\Debug\Document comparison application.csproj.CopyComplete
+D:\Document comparison application\Document comparison application\obj\Debug\Document comparison application.dll
+D:\Document comparison application\Document comparison application\obj\Debug\Document comparison application.pdb
+D:\Document comparison application\Document comparison application\obj\Debug\Document comparison application.csprojAssemblyReference.cache
+D:\Document comparison application\Document comparison application\bin\GroupDocs.Viewer.dll
+D:\Document comparison application\Document comparison application\bin\GroupDocs.Viewer.xml
